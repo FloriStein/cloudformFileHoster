@@ -1,0 +1,14 @@
+{
+  "resourceName": "samappuploadbucket",
+  "policyUUID": "44b7fb77",
+  "bucketName": "sam-app-upload-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
