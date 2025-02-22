@@ -13,13 +13,4 @@ const config = {
   },
 };
 
-const awsConfig = {
-  Storage: {
-    AWSS3: {
-      bucket: "sam-app-upload-bucket",
-      region: "eu-central-1",
-    },
-  },
-};
-
 export default config;
