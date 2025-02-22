@@ -16,7 +16,7 @@ const config = {
 const awsConfig = {
   Storage: {
     AWSS3: {
-      bucket: "dein-bucket-name",
+      bucket: "sam-app-upload-bucket",
       region: "eu-central-1",
     },
   },

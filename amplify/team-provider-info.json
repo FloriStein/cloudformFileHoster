@@ -10,6 +10,11 @@
       "StackName": "amplify-cloudformfrontend-dev-d1e96",
       "StackId": "arn:aws:cloudformation:eu-central-1:717279707507:stack/amplify-cloudformfrontend-dev-d1e96/3d972020-f07c-11ef-87fb-02e27ddced1b",
       "AmplifyAppId": "dt4jp0hh5f8q5"
+    },
+    "categories": {
+      "auth": {
+        "cloudformfrontenddae982be": {}
+      }
     }
   }
 }
